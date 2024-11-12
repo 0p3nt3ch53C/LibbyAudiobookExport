@@ -2,7 +2,7 @@
 
 ## Steps
 
-### Browse to Libby
+### Browse Libby
 
 ### Library Search
 
