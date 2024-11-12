@@ -2,7 +2,7 @@
 
 ## Steps
 
-### Browse to (libby)[https://libbyapp.com/]
+### Browse to Libby
 
 ### Library Search
 
@@ -21,3 +21,15 @@
 #### Audiobook Download
 
 
+## Technology
+
+<p align="left">
+    <a href="https://coveralls.io/github/badges/shields">
+        <img src="https://img.shields.io/coveralls/github/badges/shields"
+            alt="Code Coverage"></a>
+    <a href="https://www.python.org/doc/">
+        <img src="https://img.shields.io/badge/Code-Python3-purple?logo=python&logoColor=purple"
+            alt="Python3"></a>
+</p>
+
+Libby Audio Export is written in Python3.
