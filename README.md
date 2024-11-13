@@ -27,7 +27,7 @@
         <img src="https://img.shields.io/coveralls/github/badges/shields"
             alt="Code Coverage"></a>
     <a href="https://www.python.org/doc/">
-        <img src="https://img.shields.io/badge/Code-Python3-purple?logo=python&logoColor=purple"
+        <img src="https://img.shields.io/badge/Code-Python3-blue?logo=python&logoColor=blue
             alt="Python3"></a>
 </p>
 
