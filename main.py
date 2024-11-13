@@ -2,6 +2,7 @@
 
 """Import Statements"""
 
+"""Set Global Variables"""
 
-
+"""Define Classes and Functions"""
 
