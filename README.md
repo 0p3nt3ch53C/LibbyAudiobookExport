@@ -35,6 +35,7 @@
 
 Libby Audio Export is written in Python3.
 
-Required: 
+### Requirements 
+
 * Library Card Number
 * Library Card PIN
