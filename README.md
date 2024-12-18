@@ -31,4 +31,10 @@
             alt="Python3"></a>
 </p>
 
+## Description
+
 Libby Audio Export is written in Python3.
+
+Required: 
+* Library Card Number
+* Library Card PIN
