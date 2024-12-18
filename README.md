@@ -12,7 +12,7 @@
 
 #### Link library with Sentry 
 
-#### Preform Chip Sync
+#### Preform Chip Sync (as needed)
 
 #### Audiobook Search (based on borrowed titles)
 
